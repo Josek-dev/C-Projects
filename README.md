@@ -10,3 +10,8 @@ na standardowe wyjscie liczby wystapien kolejnych liter w tym pliku. Program nie
 małych liter oraz pomija wszelkie inne znaki. Program załacza tylko pliki nagłówkowe ctype.h i stdio.h.
 
 Caesar.c - Szyfr cezara
+
+Accumulate.c - Napisz funkcje accumulate, która przyjmuje adres poczatku i adres konca wycinka tablicy liczb rzeczywistych
+i do kazdego elementu tego wycinka dodaje sume wszystkich go poprzedzajacych. Funkcja powinna
+byc przystosowana do uzycia w przykładowym programie ponizej. Funkcja nie uzywa indeksów tablicy i
+nie korzysta z zadnych plików nagłówkowych.
