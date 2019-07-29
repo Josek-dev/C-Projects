@@ -8,3 +8,5 @@ oraz funkcje all ktora przyjmuje tablice stalych przedzialow oraz jej dlugosc i 
 Letters.c - Napisz program letters, który przyjmuje jako argument wywołania nazwe pliku tekstowego i wypisuje
 na standardowe wyjscie liczby wystapien kolejnych liter w tym pliku. Program nie rozróznia wielkich i
 małych liter oraz pomija wszelkie inne znaki. Program załacza tylko pliki nagłówkowe ctype.h i stdio.h.
+
+Caesar.c - Szyfr cezara
