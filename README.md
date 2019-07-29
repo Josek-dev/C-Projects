@@ -15,3 +15,25 @@ Accumulate.c - Napisz funkcje accumulate, która przyjmuje adres poczatku i adre
 i do kazdego elementu tego wycinka dodaje sume wszystkich go poprzedzajacych. Funkcja powinna
 byc przystosowana do uzycia w przykładowym programie ponizej. Funkcja nie uzywa indeksów tablicy i
 nie korzysta z zadnych plików nagłówkowych.
+
+Find.c - Napisz funkcje find, która przyjmuje adres poczatku i adres konca wycinka tablicy stałych całkowitych
+oraz pojedyncza wartosc całkowita i zwraca adres pierwszego wystapienia tej wartosci w wycinku albo
+adres konca wycinka jezeli ta wartosc w nim nie wystepuje. Funkcja powinna byc przystosowana do uzycia
+w przykładowym programie ponizej. Funkcja nie uzywa indeksów tablicy i nie korzysta z zadnych plików
+nagłówkowych.
+
+Quadratic.c - Obliczanie delty i miejsc zerowych na wskaźnikach
+
+Polygonal.c - Napisz strukture Point przechowujaca kartezjanskie współrzedne punktu na płaszczyznie. Napisz funkcje
+polygonal, która przyjmuje stała tablice takich punktów oraz jej rozmiar i zwraca długosc łamanej
+otwartej łaczacej te punkty, od pierwszego do ostatniego. Jezeli tablica zawiera mniej niz dwa punkty,
+funkcja zwraca zero. Struktura i funkcja powinny byc przystosowane do uzycia w przykładowym programie
+ponizej. Korzystaja one tylko z pliku nagłówkowego math.h.
+
+Coin.c - Napisz funkcje coin symulujaca rzut oszukana moneta. Funkcja przyjmuje prawdopodobienstwo wyrzucenia
+orła i zwraca jeden jesli wypadł orzeł albo zero jesli reszka. Funkcja powinna byc przystosowana
+do uzycia w przykładowym programie ponizej. Funkcja korzysta tylko z pliku nagłówkowego stdlib.h.
+
+Compare.c - Napisz funkcje compare, która przyjmuje dwa stałe napisy i zwraca jeden jesli pierwszy wypada w kolejnosci
+alfabetycznej przed drugim albo zero w przeciwnym razie. Funkcja powinna byc przystosowana do
+uzycia w przykładowym programie ponizej. Funkcja nie korzysta z zadnych plików nagłówkowych.
