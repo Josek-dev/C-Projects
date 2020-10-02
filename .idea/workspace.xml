@@ -12,30 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62987f4d-50ea-4369-9a14-c60a28a72c0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Accumulate/Accumulate.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Caesar/Caesar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coin/Coin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compare/Compare.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find/Find.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Letters/Letters.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polygonal/Polygonal.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quadratic/Quadratic.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Range/Range.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SelectionSort/SelectionSort.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/C-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/C-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accumulate.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Caesar.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coin.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compare.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Letters.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polygonal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quadratic.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Range.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +27,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Josek-dev &lt;53444783+josek-dev@users.noreply.github.com&gt;" />
         <option value="Marcin Bugaj &lt;53444783+josek-dev@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -93,8 +71,23 @@
       <updated>1601666324715</updated>
       <workItem from="1601666326320" duration="169000" />
       <workItem from="1601666534278" duration="57000" />
-      <workItem from="1601666595057" duration="1291000" />
+      <workItem from="1601666595057" duration="1553000" />
     </task>
+    <task id="LOCAL-00001" summary="reorganize folder">
+      <created>1601667933892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601667933892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="reorganize folder">
+      <created>1601668015330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601668015330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reorganize folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganize folder" />
   </component>
 </project>
