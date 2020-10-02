@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="C_Projects" targetName="C_Projects" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,7 +12,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62987f4d-50ea-4369-9a14-c60a28a72c0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Accumulate/Accumulate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caesar/Caesar.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin/Coin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compare/Compare.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find/Find.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letters/Letters.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polygonal/Polygonal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quadratic/Quadratic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Range/Range.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectionSort/SelectionSort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/C-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accumulate.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compare.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Letters.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polygonal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quadratic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Range.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +46,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -29,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,6 +69,13 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="C_Projects" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Projects" TARGET_NAME="C_Projects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Projects" RUN_TARGET_NAME="C_Projects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,6 +88,7 @@
       <updated>1601666324715</updated>
       <workItem from="1601666326320" duration="169000" />
       <workItem from="1601666534278" duration="57000" />
+      <workItem from="1601666595057" duration="1291000" />
     </task>
     <servers />
   </component>
